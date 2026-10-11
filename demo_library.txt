@@ -1,0 +1,3 @@
+BOOK|101|Clean Code|Robert C. Martin|0
+BOOK|102|The Pragmatic Programmer|Andrew Hunt|1
+MAGAZINE|201|C++ Monthly|18|0
